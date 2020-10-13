@@ -9,5 +9,5 @@ After nine months of research, studying and learning; I have finally decided to 
 
 Considering my short-term goal, I want to get proficient in Javascript and the Javascript Stack (MongoDB - Express - REACT - Node). I should be able to make and manage full-blown dynamic web applications and kick-start my career in Full Stack Web Development. 
 
-As far as the long-term goal is concerned, it will be a continued learning process; getting better in what I do, learning new languages and frameworks, working on unique and exciting projects, learning from the best people, getting a mentor, work more efficiently and productively within a dev team or may be setup my own startup. 
+As far as the long-term goal is concerned, it will be a continued learning process; getting better in what I do, learning new languages and frameworks, working on unique and exciting projects, learning from the best people, getting a mentor, work more efficiently and productively within a dev team or may be launch my own startup. 
 
